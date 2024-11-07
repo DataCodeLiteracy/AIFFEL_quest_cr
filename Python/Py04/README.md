@@ -7,7 +7,7 @@
 
 - [ㅇ ] **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
   ***
-  ![image](https://github.com/user-attachments/assets/0040c311-8a30-4d76-ad64-92af7b7d4181)
+  ![image](https://github.com/user-attachments/assets/737d62fe-9cc3-4c90-afbb-b10d0c9275c2)
 
   코드가 잘 작동됩니다.
 
